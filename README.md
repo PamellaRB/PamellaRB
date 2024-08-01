@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Oiê+Pessoal!+👋;+Me+Chamo+Pamella+Barros!;" />
 </h1>
@@ -7,8 +5,8 @@
 
 - 🌱 Estudante ativa em tecnologia;
 - 📚 Estudante iniciante em programação;
-- 📚 Estudando Pyton, C++ e C# 
-- 🔭 Trabalho como Coordenadora de TI
+- 📚 Estudando Pyton, C++ e C#;
+- 🔭 Trabalho como Coordenadora de TI.
 
 
 <div align="center">
@@ -21,7 +19,7 @@
 	<img align="center" alt="MYSQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
 	<img align="center" alt="C#" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
 	<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	<img align="center" alt="WordPress" height="30" width="40" src="https://icongr.am/devicon/wordpress-plain.svg?size=128&color=currentColor">
+	<img align="center" alt="WordPress" height="30" width="40" src="https://icongr.am/devicon/wordpress-plain.svg?size=128&color=ffffff">
 	<img align="center" alt="Linux" height="30" width="40" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor">
 
 </div>
