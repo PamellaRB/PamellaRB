@@ -4,7 +4,7 @@
 
 
 - 🌱 Estudante ativa em tecnologia;
-- 📚 Estudante iniciante em programação;
+- 📚 Estudante de programação;
 - 📚 Estudando Pyton, C++ e C#;
 - 🔭 Trabalho como Coordenadora de TI.
 
